@@ -1,0 +1,1 @@
+This repository contains code examples from the article [A straightforward guide for Go interface](https://dev.to/eyo000000/a-straightforward-guide-for-go-interface-16b2).
